@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+body{
+ font-family: 'Times New Roman', Times, serif;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+}
+h3{
+    color: dimgray;
+}
