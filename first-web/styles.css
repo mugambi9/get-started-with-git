@@ -9,7 +9,24 @@ body{
  align-items: center;
  justify-content: center;
  flex-direction: column;
+
 }
+
 h3{
+    color: dimgray;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+p{
+    color: dimgray;
+
+}
+
+body{
+    background-color: rgb(135, 158, 135);
+}
+ol{
     color: dimgray;
 }
