@@ -4,29 +4,41 @@
     box-sizing: border-box;
  }
 body{
- font-family: 'Times New Roman', Times, serif;
- display: flex;
- align-items: center;
- justify-content: center;
- flex-direction: column;
-
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 10px;
 }
 
 h3{
-    color: dimgray;
+    color: rgb(19, 13, 13);
+
 }
 img{
     width: 250px;
     height: 250px;
-}
-p{
-    color: dimgray;
+    border-radius: 9px;
 
+}
+
+p{
+    color: rgb(3, 3, 3);
+padding: 10px;
 }
 
 body{
-    background-color: rgb(135, 158, 135);
+    background-color: rgb(141, 133, 123);
 }
 ol{
-    color: dimgray;
+    color: rgb(14, 5, 5);
+    padding-top: 10px;
+}
+form{
+    box-shadow: 2px 2px 2px 2px;
+    padding: 30px;
+    border-radius: 9px;
 }
